@@ -1,0 +1,90 @@
+[
+  {
+    "model": "dashboard.dashboard",
+    "pk": 1,
+    "fields": {
+      "function": "x+x",
+      "chart": "Снимок_экрана_2022-08-11_в_13.06.04.png",
+      "interval": "3",
+      "pace": "6",
+      "prep_date": "2022-08-22"
+    }
+  },
+  {
+    "model": "dashboard.dashboard",
+    "pk": 2,
+    "fields": {
+      "function": "x+x",
+      "chart": "аватарка.jpg",
+      "interval": "3",
+      "pace": "6",
+      "prep_date": "2022-08-21"
+    }
+  },
+  {
+    "model": "dashboard.dashboard",
+    "pk": 3,
+    "fields": {
+      "function": "x+x",
+      "chart": "anvil.jpg",
+      "interval": "3",
+      "pace": "6",
+      "prep_date": "2022-08-21"
+    }
+  },
+  {
+    "model": "dashboard.dashboard",
+    "pk": 4,
+    "fields": {
+      "function": "x+x",
+      "chart": "flower.jpg",
+      "interval": "3",
+      "pace": "6",
+      "prep_date": "2022-08-21"
+    }
+  },
+  {
+    "model": "dashboard.dashboard",
+    "pk": 5,
+    "fields": {
+      "function": "x+x",
+      "chart": "green_hat.jpg",
+      "interval": "3",
+      "pace": "6",
+      "prep_date": "2022-08-21"
+    }
+  },
+  {
+    "model": "dashboard.dashboard",
+    "pk": 6,
+    "fields": {
+      "function": "x+x",
+      "chart": "noroot.jpg",
+      "interval": "3",
+      "pace": "6",
+      "prep_date": "2022-08-21"
+    }
+  },
+  {
+    "model": "dashboard.dashboard",
+    "pk": 7,
+    "fields": {
+      "function": "x+x",
+      "chart": "petr-photo.jpeg",
+      "interval": "3",
+      "pace": "6",
+      "prep_date": "2022-08-21"
+    }
+  },
+  {
+    "model": "dashboard.dashboard",
+    "pk": 8,
+    "fields": {
+      "function": "x+x",
+      "chart": "wall.jpg",
+      "interval": "3",
+      "pace": "6",
+      "prep_date": "2022-08-21"
+    }
+  }
+]
